@@ -18,7 +18,7 @@ print(1453)
 
 # Floating Point
 print(14.53)
-print(14,53)
+print(14, 53)
 
 # =============================================
 # SEPERATE
@@ -69,8 +69,8 @@ yeni\nsatır
 # VARIABLE
 # =============================================
 # Değişken isimlendirmelerde
-name = "Cavit Batu"
-surname = "Soylu"
+name = "Hamit"
+surname = "Mızrak"
 # print("Adım: ", name," \nSoyisim: ",surname)
 
 # 1.YOL

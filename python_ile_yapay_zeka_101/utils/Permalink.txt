@@ -3,8 +3,7 @@ https://www.w3schools.com/python/
 
 
 -- GİTHUB
-https://github.com/hamitmizrak/python_techcareer_2025_101_1
-
+https://github.com/Cavitbatusoylu/PythonIleYapayZeka101
 
 -- KURULUMU VİDEOSU
 https://www.youtube.com/watch?v=IWekkVSXRsU
@@ -20,4 +19,4 @@ python --version
 
 -- Register
 GitHub Register
-hamit.mizrak@gmail.com
+CECBSofficial@hotmail.com
