@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2026-01-10 14:57:27,036 - INFO - decks kaydedildi: 3 kayıt
 2026-01-10 14:58:14,661 - INFO - decks kaydedildi: 3 kayıt
 2026-01-10 14:58:15,050 - INFO - users kaydedildi: 0 kayıt
@@ -1224,3 +1225,1231 @@
 2026-01-16 12:37:23,459 - INFO - Yeni kayıt eklendi: users #2
 2026-01-16 12:37:23,460 - INFO - Yeni kullanıcı kaydı: user2@example.com (ID: 2)
 2026-01-16 12:37:24,454 - INFO - Kullanıcı girişi başarılı: user2@example.com (ID: 2)
+=======
+2026-01-10 14:57:27,036 - INFO - decks kaydedildi: 3 kayıt
+2026-01-10 14:58:14,661 - INFO - decks kaydedildi: 3 kayıt
+2026-01-10 14:58:15,050 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 14:58:15,278 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 14:58:15,280 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 14:58:15,283 - INFO - Yeni kullanıcı kaydı: login@example.com (ID: 1)
+2026-01-10 14:58:15,577 - INFO - Kullanıcı girişi başarılı: login@example.com (ID: 1)
+2026-01-10 14:58:15,593 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 14:58:15,872 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 14:58:15,873 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 14:58:15,874 - INFO - Yeni kullanıcı kaydı: wrongpass@example.com (ID: 1)
+2026-01-10 14:58:16,139 - WARNING - Başarısız giriş denemesi - yanlış parola: wrongpass@example.com
+2026-01-10 14:58:16,148 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 14:58:16,380 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 14:58:16,382 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 14:58:16,383 - INFO - Yeni kullanıcı kaydı: duplicate@example.com (ID: 1)
+2026-01-10 14:58:16,424 - WARNING - Kayıt denemesi - email zaten mevcut: duplicate@example.com
+2026-01-10 14:58:16,429 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 14:58:16,655 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 14:58:16,655 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 14:58:16,656 - INFO - Yeni kullanıcı kaydı: test@example.com (ID: 1)
+2026-01-10 14:58:16,678 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 14:58:16,682 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 14:58:16,687 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 14:58:16,692 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 14:58:16,696 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-10 14:58:16,897 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 14:58:16,898 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 14:58:16,898 - INFO - Yeni kullanıcı kaydı: cardtest@example.com (ID: 1)
+2026-01-10 14:58:17,133 - INFO - Kullanıcı girişi başarılı: cardtest@example.com (ID: 1)
+2026-01-10 14:58:17,139 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 14:58:17,140 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 14:58:17,140 - INFO - Deck oluşturuldu: Test Deck (ID: 1, User: 1)
+2026-01-10 14:58:17,184 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 14:58:17,184 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-10 14:58:17,189 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 14:58:17,190 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-10 14:58:17,190 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-10 14:58:17,243 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 14:58:17,244 - INFO - Kayıt güncellendi: cards #1
+2026-01-10 14:58:17,246 - INFO - Kart güncellendi: 1
+2026-01-10 14:58:17,289 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 14:58:17,290 - INFO - 1 kayıt silindi: srs_state (card_id=1)
+2026-01-10 14:58:17,296 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 14:58:17,300 - INFO - Kayıt silindi: cards #1
+2026-01-10 14:58:17,301 - INFO - Kart silindi: 1
+2026-01-10 14:58:17,322 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 14:58:17,327 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 14:58:17,335 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 14:58:17,339 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 14:58:17,538 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 14:58:17,538 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 14:58:17,539 - INFO - Yeni kullanıcı kaydı: cascade@example.com (ID: 1)
+2026-01-10 14:58:17,952 - INFO - Kullanıcı girişi başarılı: cascade@example.com (ID: 1)
+2026-01-10 14:58:17,957 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 14:58:17,958 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 14:58:17,959 - INFO - Deck oluşturuldu: Cascade Test (ID: 1, User: 1)
+2026-01-10 14:58:17,990 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 14:58:17,990 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-10 14:58:17,999 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 14:58:18,000 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-10 14:58:18,001 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-10 14:58:18,059 - INFO - cards kaydedildi: 2 kayıt
+2026-01-10 14:58:18,066 - INFO - Yeni kayıt eklendi: cards #2
+2026-01-10 14:58:18,106 - INFO - srs_state kaydedildi: 2 kayıt
+2026-01-10 14:58:18,107 - INFO - Yeni kayıt eklendi: srs_state #2
+2026-01-10 14:58:18,107 - INFO - Kart oluşturuldu: 2 (Deck: 1)
+2026-01-10 14:58:18,163 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 14:58:18,164 - INFO - 1 kayıt silindi: srs_state (card_id=1)
+2026-01-10 14:58:18,190 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 14:58:18,191 - INFO - 1 kayıt silindi: srs_state (card_id=2)
+2026-01-10 14:58:18,196 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 14:58:18,197 - INFO - 2 kayıt silindi: cards (deck_id=1)
+2026-01-10 14:58:18,205 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 14:58:18,206 - INFO - Kayıt silindi: decks #1
+2026-01-10 14:58:18,206 - INFO - Deck silindi (cascade): Cascade Test (ID: 1, Kartlar: 2)
+2026-01-10 14:58:18,226 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 14:58:18,231 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 14:58:18,236 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 14:58:18,239 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 14:58:18,422 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 14:58:18,422 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 14:58:18,423 - INFO - Yeni kullanıcı kaydı: decktest@example.com (ID: 1)
+2026-01-10 14:58:18,622 - INFO - Kullanıcı girişi başarılı: decktest@example.com (ID: 1)
+2026-01-10 14:58:18,628 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 14:58:18,629 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 14:58:18,629 - INFO - Deck oluşturuldu: Python Basics (ID: 1, User: 1)
+2026-01-10 14:58:18,654 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 14:58:18,655 - INFO - Kayıt güncellendi: decks #1
+2026-01-10 14:58:18,655 - INFO - Deck güncellendi: 1
+2026-01-10 14:58:18,680 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 14:58:18,681 - INFO - Kayıt silindi: decks #1
+2026-01-10 14:58:18,681 - INFO - Deck silindi (cascade): Advanced Python (ID: 1, Kartlar: 0)
+2026-01-10 14:58:18,701 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 14:58:18,705 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 14:58:18,710 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 14:58:18,716 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 14:58:18,722 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-10 14:58:18,960 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 14:58:18,961 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 14:58:18,963 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-10 14:58:19,167 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-10 14:58:19,172 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 14:58:19,172 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 14:58:19,173 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-10 14:58:19,205 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 14:58:19,206 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-10 14:58:19,211 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 14:58:19,211 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-10 14:58:19,212 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-10 14:58:19,271 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 14:58:19,275 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 14:58:19,281 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 14:58:19,284 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 14:58:19,288 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-10 14:58:19,532 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 14:58:19,533 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 14:58:19,536 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-10 14:58:19,867 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-10 14:58:19,881 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 14:58:19,885 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 14:58:19,888 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-10 14:58:19,937 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 14:58:19,938 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-10 14:58:19,945 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 14:58:19,946 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-10 14:58:19,946 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-10 14:58:20,073 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 14:58:20,073 - INFO - Kayıt güncellendi: srs_state #1
+2026-01-10 14:58:20,082 - INFO - reviews kaydedildi: 1 kayıt
+2026-01-10 14:58:20,083 - INFO - Yeni kayıt eklendi: reviews #1
+2026-01-10 14:58:20,086 - INFO - Review kaydedildi: Card 1, Quality 4, Due: 2026-01-11
+2026-01-10 14:58:20,121 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 14:58:20,126 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 14:58:20,132 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 14:58:20,140 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 14:58:20,155 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-10 14:58:20,447 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 14:58:20,449 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 14:58:20,451 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-10 14:58:20,794 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-10 14:58:20,807 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 14:58:20,808 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 14:58:20,809 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-10 14:58:20,883 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 14:58:20,885 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-10 14:58:20,892 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 14:58:20,892 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-10 14:58:20,895 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-10 14:58:20,965 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 14:58:20,966 - INFO - Kayıt güncellendi: srs_state #1
+2026-01-10 14:58:20,970 - INFO - reviews kaydedildi: 1 kayıt
+2026-01-10 14:58:20,970 - INFO - Yeni kayıt eklendi: reviews #1
+2026-01-10 14:58:20,971 - INFO - Review kaydedildi: Card 1, Quality 2, Due: 2026-01-11
+2026-01-10 14:58:21,024 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 14:58:21,027 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 14:58:21,320 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 14:58:21,321 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 14:58:21,322 - INFO - Yeni kullanıcı kaydı: user1@example.com (ID: 1)
+2026-01-10 14:58:21,612 - INFO - Kullanıcı girişi başarılı: user1@example.com (ID: 1)
+2026-01-10 14:58:21,626 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 14:58:21,631 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 14:58:21,632 - INFO - Deck oluşturuldu: User1 Deck (ID: 1, User: 1)
+2026-01-10 14:58:21,632 - INFO - Kullanıcı çıkışı: user1@example.com
+2026-01-10 14:58:21,888 - INFO - users kaydedildi: 2 kayıt
+2026-01-10 14:58:21,889 - INFO - Yeni kayıt eklendi: users #2
+2026-01-10 14:58:21,890 - INFO - Yeni kullanıcı kaydı: user2@example.com (ID: 2)
+2026-01-10 14:58:22,185 - INFO - Kullanıcı girişi başarılı: user2@example.com (ID: 2)
+2026-01-10 15:21:09,522 - INFO - Uygulama başlatıldı
+2026-01-10 15:25:49,136 - ERROR - JSON okuma hatası (c:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\data\users.json): Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-01-10 15:25:49,138 - WARNING - Başarısız giriş denemesi - kullanıcı bulunamadı: 
+2026-01-10 15:26:02,055 - ERROR - JSON okuma hatası (c:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\data\users.json): Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-01-10 15:26:02,170 - ERROR - JSON okuma hatası (c:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\data\users.json): Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-01-10 15:26:02,171 - ERROR - JSON okuma hatası (c:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\data\users.json): Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-01-10 15:26:02,173 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:26:02,173 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:26:02,173 - INFO - Yeni kullanıcı kaydı: CBSm@gmail.com (ID: 1)
+2026-01-10 15:26:25,210 - INFO - Kullanıcı girişi başarılı: CBSm@gmail.com (ID: 1)
+2026-01-10 15:26:30,821 - ERROR - JSON okuma hatası (c:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\data\decks.json): Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-01-10 15:26:30,822 - ERROR - JSON okuma hatası (c:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\data\cards.json): Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-01-10 15:26:38,721 - ERROR - JSON okuma hatası (c:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\data\decks.json): Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-01-10 15:26:38,721 - ERROR - JSON okuma hatası (c:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\data\decks.json): Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-01-10 15:26:38,721 - ERROR - JSON okuma hatası (c:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\data\decks.json): Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-01-10 15:26:38,723 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 15:26:38,724 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 15:26:38,724 - INFO - Deck oluşturuldu: S (ID: 1, User: 1)
+2026-01-10 15:26:41,223 - ERROR - JSON okuma hatası (c:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\data\cards.json): Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-01-10 15:26:47,214 - ERROR - JSON okuma hatası (c:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\data\cards.json): Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-01-10 15:26:50,436 - ERROR - JSON okuma hatası (c:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\data\cards.json): Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-01-10 15:26:50,436 - ERROR - JSON okuma hatası (c:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\data\cards.json): Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-01-10 15:26:50,439 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:26:50,439 - INFO - Kayıt silindi: decks #1
+2026-01-10 15:26:50,439 - INFO - Deck silindi (cascade): S (ID: 1, Kartlar: 0)
+2026-01-10 15:31:07,488 - INFO - decks kaydedildi: 3 kayıt
+2026-01-10 15:31:07,584 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:31:07,800 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:31:07,800 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:31:07,801 - INFO - Yeni kullanıcı kaydı: login@example.com (ID: 1)
+2026-01-10 15:31:07,987 - INFO - Kullanıcı girişi başarılı: login@example.com (ID: 1)
+2026-01-10 15:31:07,991 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:31:08,144 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:31:08,145 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:31:08,145 - INFO - Yeni kullanıcı kaydı: wrongpass@example.com (ID: 1)
+2026-01-10 15:31:08,330 - WARNING - Başarısız giriş denemesi - yanlış parola: wrongpass@example.com
+2026-01-10 15:31:08,334 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:31:08,489 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:31:08,489 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:31:08,490 - INFO - Yeni kullanıcı kaydı: duplicate@example.com (ID: 1)
+2026-01-10 15:31:08,511 - WARNING - Kayıt denemesi - email zaten mevcut: duplicate@example.com
+2026-01-10 15:31:08,515 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:31:08,669 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:31:08,669 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:31:08,670 - INFO - Yeni kullanıcı kaydı: test@example.com (ID: 1)
+2026-01-10 15:31:08,679 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:31:08,682 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:31:08,685 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 15:31:08,690 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 15:31:08,693 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-10 15:31:08,856 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:31:08,857 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:31:08,857 - INFO - Yeni kullanıcı kaydı: cardtest@example.com (ID: 1)
+2026-01-10 15:31:09,020 - INFO - Kullanıcı girişi başarılı: cardtest@example.com (ID: 1)
+2026-01-10 15:31:09,044 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 15:31:09,044 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 15:31:09,045 - INFO - Deck oluşturuldu: Test Deck (ID: 1, User: 1)
+2026-01-10 15:31:09,082 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 15:31:09,083 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-10 15:31:09,087 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 15:31:09,088 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-10 15:31:09,088 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-10 15:31:09,131 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 15:31:09,132 - INFO - Kayıt güncellendi: cards #1
+2026-01-10 15:31:09,132 - INFO - Kart güncellendi: 1
+2026-01-10 15:31:09,154 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 15:31:09,155 - INFO - 1 kayıt silindi: srs_state (card_id=1)
+2026-01-10 15:31:09,159 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 15:31:09,159 - INFO - Kayıt silindi: cards #1
+2026-01-10 15:31:09,160 - INFO - Kart silindi: 1
+2026-01-10 15:31:09,170 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:31:09,174 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:31:09,178 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 15:31:09,182 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 15:31:09,338 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:31:09,338 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:31:09,339 - INFO - Yeni kullanıcı kaydı: cascade@example.com (ID: 1)
+2026-01-10 15:31:09,502 - INFO - Kullanıcı girişi başarılı: cascade@example.com (ID: 1)
+2026-01-10 15:31:09,506 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 15:31:09,507 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 15:31:09,507 - INFO - Deck oluşturuldu: Cascade Test (ID: 1, User: 1)
+2026-01-10 15:31:09,533 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 15:31:09,534 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-10 15:31:09,539 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 15:31:09,539 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-10 15:31:09,539 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-10 15:31:09,562 - INFO - cards kaydedildi: 2 kayıt
+2026-01-10 15:31:09,564 - INFO - Yeni kayıt eklendi: cards #2
+2026-01-10 15:31:09,591 - INFO - srs_state kaydedildi: 2 kayıt
+2026-01-10 15:31:09,591 - INFO - Yeni kayıt eklendi: srs_state #2
+2026-01-10 15:31:09,592 - INFO - Kart oluşturuldu: 2 (Deck: 1)
+2026-01-10 15:31:09,646 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 15:31:09,647 - INFO - 1 kayıt silindi: srs_state (card_id=1)
+2026-01-10 15:31:09,670 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 15:31:09,670 - INFO - 1 kayıt silindi: srs_state (card_id=2)
+2026-01-10 15:31:09,676 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 15:31:09,676 - INFO - 2 kayıt silindi: cards (deck_id=1)
+2026-01-10 15:31:09,680 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:31:09,681 - INFO - Kayıt silindi: decks #1
+2026-01-10 15:31:09,682 - INFO - Deck silindi (cascade): Cascade Test (ID: 1, Kartlar: 2)
+2026-01-10 15:31:09,693 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:31:09,699 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:31:09,704 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 15:31:09,709 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 15:31:09,873 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:31:09,873 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:31:09,874 - INFO - Yeni kullanıcı kaydı: decktest@example.com (ID: 1)
+2026-01-10 15:31:10,033 - INFO - Kullanıcı girişi başarılı: decktest@example.com (ID: 1)
+2026-01-10 15:31:10,038 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 15:31:10,039 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 15:31:10,039 - INFO - Deck oluşturuldu: Python Basics (ID: 1, User: 1)
+2026-01-10 15:31:10,061 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 15:31:10,062 - INFO - Kayıt güncellendi: decks #1
+2026-01-10 15:31:10,062 - INFO - Deck güncellendi: 1
+2026-01-10 15:31:10,087 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:31:10,087 - INFO - Kayıt silindi: decks #1
+2026-01-10 15:31:10,088 - INFO - Deck silindi (cascade): Advanced Python (ID: 1, Kartlar: 0)
+2026-01-10 15:31:10,102 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:31:10,105 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:31:10,108 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 15:31:10,111 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 15:31:10,114 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-10 15:31:10,260 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:31:10,260 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:31:10,261 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-10 15:31:10,479 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-10 15:31:10,483 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 15:31:10,484 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 15:31:10,484 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-10 15:31:10,526 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 15:31:10,527 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-10 15:31:10,531 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 15:31:10,531 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-10 15:31:10,532 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-10 15:31:10,593 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:31:10,601 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:31:10,607 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 15:31:10,612 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 15:31:10,619 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-10 15:31:10,793 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:31:10,794 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:31:10,794 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-10 15:31:11,060 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-10 15:31:11,065 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 15:31:11,066 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 15:31:11,068 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-10 15:31:11,106 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 15:31:11,107 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-10 15:31:11,112 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 15:31:11,112 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-10 15:31:11,112 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-10 15:31:11,162 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 15:31:11,162 - INFO - Kayıt güncellendi: srs_state #1
+2026-01-10 15:31:11,167 - INFO - reviews kaydedildi: 1 kayıt
+2026-01-10 15:31:11,167 - INFO - Yeni kayıt eklendi: reviews #1
+2026-01-10 15:31:11,167 - INFO - Review kaydedildi: Card 1, Quality 4, Due: 2026-01-11
+2026-01-10 15:31:11,188 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:31:11,192 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:31:11,195 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 15:31:11,199 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 15:31:11,204 - ERROR - Kaydetme hatası (C:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\tests\test_data\reviews.json): [WinError 5] Erişim engellendi: 'C:\\Users\\cavit\\OneDrive\\Desktop\\Python İle Yapay Zeka\\Bitirme Projesi\\tests\\test_data\\reviews.tmp' -> 'C:\\Users\\cavit\\OneDrive\\Desktop\\Python İle Yapay Zeka\\Bitirme Projesi\\tests\\test_data\\reviews.json'
+2026-01-10 15:31:11,356 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:31:11,357 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:31:11,357 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-10 15:31:11,523 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-10 15:31:11,528 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 15:31:11,530 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 15:31:11,532 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-10 15:31:11,560 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 15:31:11,561 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-10 15:31:11,568 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 15:31:11,568 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-10 15:31:11,569 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-10 15:31:11,623 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 15:31:11,624 - INFO - Kayıt güncellendi: srs_state #1
+2026-01-10 15:31:11,629 - INFO - reviews kaydedildi: 2 kayıt
+2026-01-10 15:31:11,629 - INFO - Yeni kayıt eklendi: reviews #2
+2026-01-10 15:31:11,629 - INFO - Review kaydedildi: Card 1, Quality 2, Due: 2026-01-11
+2026-01-10 15:31:11,662 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:31:11,666 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:31:11,822 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:31:11,822 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:31:11,823 - INFO - Yeni kullanıcı kaydı: user1@example.com (ID: 1)
+2026-01-10 15:31:11,984 - INFO - Kullanıcı girişi başarılı: user1@example.com (ID: 1)
+2026-01-10 15:31:11,990 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 15:31:11,990 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 15:31:11,991 - INFO - Deck oluşturuldu: User1 Deck (ID: 1, User: 1)
+2026-01-10 15:31:11,991 - INFO - Kullanıcı çıkışı: user1@example.com
+2026-01-10 15:31:12,176 - INFO - users kaydedildi: 2 kayıt
+2026-01-10 15:31:12,177 - INFO - Yeni kayıt eklendi: users #2
+2026-01-10 15:31:12,177 - INFO - Yeni kullanıcı kaydı: user2@example.com (ID: 2)
+2026-01-10 15:31:12,432 - INFO - Kullanıcı girişi başarılı: user2@example.com (ID: 2)
+2026-01-10 15:32:07,843 - INFO - decks kaydedildi: 3 kayıt
+2026-01-10 15:32:07,864 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:32:07,976 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:32:07,977 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:32:07,977 - INFO - Yeni kullanıcı kaydı: login@example.com (ID: 1)
+2026-01-10 15:32:08,126 - INFO - Kullanıcı girişi başarılı: login@example.com (ID: 1)
+2026-01-10 15:32:08,128 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:32:08,237 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:32:08,237 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:32:08,237 - INFO - Yeni kullanıcı kaydı: wrongpass@example.com (ID: 1)
+2026-01-10 15:32:08,374 - WARNING - Başarısız giriş denemesi - yanlış parola: wrongpass@example.com
+2026-01-10 15:32:08,377 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:32:08,495 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:32:08,496 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:32:08,496 - INFO - Yeni kullanıcı kaydı: duplicate@example.com (ID: 1)
+2026-01-10 15:32:08,517 - WARNING - Kayıt denemesi - email zaten mevcut: duplicate@example.com
+2026-01-10 15:32:08,520 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:32:08,639 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:32:08,640 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:32:08,640 - INFO - Yeni kullanıcı kaydı: test@example.com (ID: 1)
+2026-01-10 15:32:08,656 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 15:32:08,669 - INFO - Yedek oluşturuldu: C:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\tests\test_backups\backup_20260110_153208
+2026-01-10 15:32:08,672 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 15:32:08,700 - INFO - CSV dışa aktarıldı: C:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\tests\test_backups\export_20260110_153208.csv
+2026-01-10 15:32:08,708 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 15:32:08,710 - ERROR - Yedekleme hatası: [WinError 183] Halen varolan bir dosya oluşturulamaz: 'C:\\Users\\cavit\\OneDrive\\Desktop\\Python İle Yapay Zeka\\Bitirme Projesi\\tests\\test_backups\\backup_20260110_153208'
+2026-01-10 15:32:08,727 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:32:08,730 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:32:08,733 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 15:32:08,736 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 15:32:08,739 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-10 15:32:08,867 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:32:08,867 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:32:08,868 - INFO - Yeni kullanıcı kaydı: cardtest@example.com (ID: 1)
+2026-01-10 15:32:08,999 - INFO - Kullanıcı girişi başarılı: cardtest@example.com (ID: 1)
+2026-01-10 15:32:09,003 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 15:32:09,003 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 15:32:09,003 - INFO - Deck oluşturuldu: Test Deck (ID: 1, User: 1)
+2026-01-10 15:32:09,025 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 15:32:09,025 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-10 15:32:09,029 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 15:32:09,030 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-10 15:32:09,030 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-10 15:32:09,063 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 15:32:09,064 - INFO - Kayıt güncellendi: cards #1
+2026-01-10 15:32:09,064 - INFO - Kart güncellendi: 1
+2026-01-10 15:32:09,081 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 15:32:09,082 - INFO - 1 kayıt silindi: srs_state (card_id=1)
+2026-01-10 15:32:09,085 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 15:32:09,085 - INFO - Kayıt silindi: cards #1
+2026-01-10 15:32:09,085 - INFO - Kart silindi: 1
+2026-01-10 15:32:09,093 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:32:09,095 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:32:09,098 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 15:32:09,100 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 15:32:09,211 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:32:09,212 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:32:09,212 - INFO - Yeni kullanıcı kaydı: cascade@example.com (ID: 1)
+2026-01-10 15:32:09,374 - INFO - Kullanıcı girişi başarılı: cascade@example.com (ID: 1)
+2026-01-10 15:32:09,378 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 15:32:09,379 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 15:32:09,379 - INFO - Deck oluşturuldu: Cascade Test (ID: 1, User: 1)
+2026-01-10 15:32:09,398 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 15:32:09,399 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-10 15:32:09,402 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 15:32:09,402 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-10 15:32:09,403 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-10 15:32:09,421 - INFO - cards kaydedildi: 2 kayıt
+2026-01-10 15:32:09,421 - INFO - Yeni kayıt eklendi: cards #2
+2026-01-10 15:32:09,440 - INFO - srs_state kaydedildi: 2 kayıt
+2026-01-10 15:32:09,441 - INFO - Yeni kayıt eklendi: srs_state #2
+2026-01-10 15:32:09,441 - INFO - Kart oluşturuldu: 2 (Deck: 1)
+2026-01-10 15:32:09,474 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 15:32:09,475 - INFO - 1 kayıt silindi: srs_state (card_id=1)
+2026-01-10 15:32:09,490 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 15:32:09,491 - INFO - 1 kayıt silindi: srs_state (card_id=2)
+2026-01-10 15:32:09,494 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 15:32:09,494 - INFO - 2 kayıt silindi: cards (deck_id=1)
+2026-01-10 15:32:09,498 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:32:09,498 - INFO - Kayıt silindi: decks #1
+2026-01-10 15:32:09,499 - INFO - Deck silindi (cascade): Cascade Test (ID: 1, Kartlar: 2)
+2026-01-10 15:32:09,506 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:32:09,508 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:32:09,517 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 15:32:09,519 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 15:32:09,639 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:32:09,640 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:32:09,640 - INFO - Yeni kullanıcı kaydı: decktest@example.com (ID: 1)
+2026-01-10 15:32:09,757 - INFO - Kullanıcı girişi başarılı: decktest@example.com (ID: 1)
+2026-01-10 15:32:09,761 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 15:32:09,761 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 15:32:09,761 - INFO - Deck oluşturuldu: Python Basics (ID: 1, User: 1)
+2026-01-10 15:32:09,779 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 15:32:09,780 - INFO - Kayıt güncellendi: decks #1
+2026-01-10 15:32:09,780 - INFO - Deck güncellendi: 1
+2026-01-10 15:32:09,799 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:32:09,800 - INFO - Kayıt silindi: decks #1
+2026-01-10 15:32:09,800 - INFO - Deck silindi (cascade): Advanced Python (ID: 1, Kartlar: 0)
+2026-01-10 15:32:09,806 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:32:09,809 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:32:09,811 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 15:32:09,814 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 15:32:09,816 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-10 15:32:09,998 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:32:09,998 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:32:09,999 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-10 15:32:10,164 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-10 15:32:10,169 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 15:32:10,170 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 15:32:10,170 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-10 15:32:10,193 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 15:32:10,194 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-10 15:32:10,200 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 15:32:10,201 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-10 15:32:10,201 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-10 15:32:10,249 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:32:10,252 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:32:10,256 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 15:32:10,259 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 15:32:10,263 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-10 15:32:10,428 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:32:10,428 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:32:10,429 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-10 15:32:10,657 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-10 15:32:10,669 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 15:32:10,670 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 15:32:10,671 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-10 15:32:10,712 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 15:32:10,713 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-10 15:32:10,719 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 15:32:10,719 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-10 15:32:10,720 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-10 15:32:10,796 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 15:32:10,796 - INFO - Kayıt güncellendi: srs_state #1
+2026-01-10 15:32:10,801 - INFO - reviews kaydedildi: 1 kayıt
+2026-01-10 15:32:10,801 - INFO - Yeni kayıt eklendi: reviews #1
+2026-01-10 15:32:10,801 - INFO - Review kaydedildi: Card 1, Quality 4, Due: 2026-01-11
+2026-01-10 15:32:10,836 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:32:10,839 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:32:10,842 - INFO - cards kaydedildi: 0 kayıt
+2026-01-10 15:32:10,846 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-10 15:32:10,850 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-10 15:32:11,031 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:32:11,032 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:32:11,032 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-10 15:32:11,293 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-10 15:32:11,298 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 15:32:11,299 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 15:32:11,299 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-10 15:32:11,341 - INFO - cards kaydedildi: 1 kayıt
+2026-01-10 15:32:11,342 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-10 15:32:11,347 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 15:32:11,348 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-10 15:32:11,348 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-10 15:32:11,389 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-10 15:32:11,389 - INFO - Kayıt güncellendi: srs_state #1
+2026-01-10 15:32:11,394 - INFO - reviews kaydedildi: 1 kayıt
+2026-01-10 15:32:11,395 - INFO - Yeni kayıt eklendi: reviews #1
+2026-01-10 15:32:11,395 - INFO - Review kaydedildi: Card 1, Quality 2, Due: 2026-01-11
+2026-01-10 15:32:11,427 - INFO - users kaydedildi: 0 kayıt
+2026-01-10 15:32:11,431 - INFO - decks kaydedildi: 0 kayıt
+2026-01-10 15:32:11,653 - INFO - users kaydedildi: 1 kayıt
+2026-01-10 15:32:11,654 - INFO - Yeni kayıt eklendi: users #1
+2026-01-10 15:32:11,654 - INFO - Yeni kullanıcı kaydı: user1@example.com (ID: 1)
+2026-01-10 15:32:11,883 - INFO - Kullanıcı girişi başarılı: user1@example.com (ID: 1)
+2026-01-10 15:32:11,890 - INFO - decks kaydedildi: 1 kayıt
+2026-01-10 15:32:11,890 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-10 15:32:11,892 - INFO - Deck oluşturuldu: User1 Deck (ID: 1, User: 1)
+2026-01-10 15:32:11,893 - INFO - Kullanıcı çıkışı: user1@example.com
+2026-01-10 15:32:12,132 - INFO - users kaydedildi: 2 kayıt
+2026-01-10 15:32:12,133 - INFO - Yeni kayıt eklendi: users #2
+2026-01-10 15:32:12,133 - INFO - Yeni kullanıcı kaydı: user2@example.com (ID: 2)
+2026-01-10 15:32:12,376 - INFO - Kullanıcı girişi başarılı: user2@example.com (ID: 2)
+2026-01-16 12:01:15,263 - INFO - decks kaydedildi: 3 kayıt
+2026-01-16 12:01:16,788 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:01:19,399 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:01:19,461 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:01:19,485 - INFO - Yeni kullanıcı kaydı: login@example.com (ID: 1)
+2026-01-16 12:01:21,578 - INFO - Kullanıcı girişi başarılı: login@example.com (ID: 1)
+2026-01-16 12:01:21,723 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:01:22,772 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:01:22,795 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:01:22,807 - INFO - Yeni kullanıcı kaydı: wrongpass@example.com (ID: 1)
+2026-01-16 12:01:24,391 - WARNING - Başarısız giriş denemesi - yanlış parola: wrongpass@example.com
+2026-01-16 12:01:24,517 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:01:25,122 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:01:25,132 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:01:25,148 - INFO - Yeni kullanıcı kaydı: duplicate@example.com (ID: 1)
+2026-01-16 12:01:25,200 - WARNING - Kayıt denemesi - email zaten mevcut: duplicate@example.com
+2026-01-16 12:01:25,394 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:01:25,925 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:01:25,930 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:01:25,937 - INFO - Yeni kullanıcı kaydı: test@example.com (ID: 1)
+2026-01-16 12:01:26,348 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:01:26,571 - INFO - Yedek oluşturuldu: C:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\tests\test_backups\backup_20260116_120126
+2026-01-16 12:01:26,624 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:01:26,793 - INFO - CSV dışa aktarıldı: C:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\tests\test_backups\export_20260116_120126.csv
+2026-01-16 12:01:26,803 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:01:26,811 - ERROR - Yedekleme hatası: [WinError 183] Halen varolan bir dosya oluşturulamaz: 'C:\\Users\\cavit\\OneDrive\\Desktop\\Python İle Yapay Zeka\\Bitirme Projesi\\tests\\test_backups\\backup_20260116_120126'
+2026-01-16 12:01:26,893 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:01:26,907 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:01:26,993 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:01:27,013 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:01:27,029 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-16 12:01:28,024 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:01:28,025 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:01:28,025 - INFO - Yeni kullanıcı kaydı: cardtest@example.com (ID: 1)
+2026-01-16 12:01:28,382 - INFO - Kullanıcı girişi başarılı: cardtest@example.com (ID: 1)
+2026-01-16 12:01:28,427 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:01:28,433 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:01:28,440 - INFO - Deck oluşturuldu: Test Deck (ID: 1, User: 1)
+2026-01-16 12:01:28,756 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:01:28,756 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:01:28,763 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:01:28,765 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:01:28,769 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:01:29,193 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:01:29,194 - INFO - Kayıt güncellendi: cards #1
+2026-01-16 12:01:29,195 - INFO - Kart güncellendi: 1
+2026-01-16 12:01:29,296 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:01:29,307 - INFO - 1 kayıt silindi: srs_state (card_id=1)
+2026-01-16 12:01:29,313 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:01:29,331 - INFO - Kayıt silindi: cards #1
+2026-01-16 12:01:29,346 - INFO - Kart silindi: 1
+2026-01-16 12:01:29,503 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:01:29,533 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:01:30,773 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:01:30,786 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:01:31,135 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:01:31,505 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:01:31,578 - INFO - Yeni kullanıcı kaydı: cascade@example.com (ID: 1)
+2026-01-16 12:01:32,441 - INFO - Kullanıcı girişi başarılı: cascade@example.com (ID: 1)
+2026-01-16 12:01:32,465 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:01:32,467 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:01:32,468 - INFO - Deck oluşturuldu: Cascade Test (ID: 1, User: 1)
+2026-01-16 12:01:32,575 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:01:32,578 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:01:32,589 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:01:32,590 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:01:32,591 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:01:32,644 - INFO - cards kaydedildi: 2 kayıt
+2026-01-16 12:01:32,646 - INFO - Yeni kayıt eklendi: cards #2
+2026-01-16 12:01:32,709 - INFO - srs_state kaydedildi: 2 kayıt
+2026-01-16 12:01:32,714 - INFO - Yeni kayıt eklendi: srs_state #2
+2026-01-16 12:01:32,722 - INFO - Kart oluşturuldu: 2 (Deck: 1)
+2026-01-16 12:01:32,797 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:01:32,798 - INFO - 1 kayıt silindi: srs_state (card_id=1)
+2026-01-16 12:01:32,867 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:01:32,874 - INFO - 1 kayıt silindi: srs_state (card_id=2)
+2026-01-16 12:01:32,892 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:01:32,896 - INFO - 2 kayıt silindi: cards (deck_id=1)
+2026-01-16 12:01:32,947 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:01:32,947 - INFO - Kayıt silindi: decks #1
+2026-01-16 12:01:32,948 - INFO - Deck silindi (cascade): Cascade Test (ID: 1, Kartlar: 2)
+2026-01-16 12:01:32,997 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:01:33,010 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:01:33,039 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:01:33,051 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:01:33,481 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:01:33,488 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:01:33,491 - INFO - Yeni kullanıcı kaydı: decktest@example.com (ID: 1)
+2026-01-16 12:01:34,030 - INFO - Kullanıcı girişi başarılı: decktest@example.com (ID: 1)
+2026-01-16 12:01:34,210 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:01:34,211 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:01:34,212 - INFO - Deck oluşturuldu: Python Basics (ID: 1, User: 1)
+2026-01-16 12:01:34,264 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:01:34,268 - INFO - Kayıt güncellendi: decks #1
+2026-01-16 12:01:34,271 - INFO - Deck güncellendi: 1
+2026-01-16 12:01:34,315 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:01:34,317 - INFO - Kayıt silindi: decks #1
+2026-01-16 12:01:34,320 - INFO - Deck silindi (cascade): Advanced Python (ID: 1, Kartlar: 0)
+2026-01-16 12:01:34,346 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:01:34,355 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:01:34,388 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:01:34,427 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:01:34,473 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-16 12:01:34,803 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:01:34,803 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:01:34,804 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-16 12:01:35,220 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-16 12:01:35,235 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:01:35,239 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:01:35,240 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-16 12:01:35,281 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:01:35,282 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:01:35,288 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:01:35,289 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:01:35,291 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:01:35,344 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:01:35,348 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:01:35,381 - ERROR - Kaydetme hatası (C:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\tests\test_data\cards.json): [WinError 5] Erişim engellendi: 'C:\\Users\\cavit\\OneDrive\\Desktop\\Python İle Yapay Zeka\\Bitirme Projesi\\tests\\test_data\\cards.tmp' -> 'C:\\Users\\cavit\\OneDrive\\Desktop\\Python İle Yapay Zeka\\Bitirme Projesi\\tests\\test_data\\cards.json'
+2026-01-16 12:01:35,390 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:01:35,394 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-16 12:01:35,723 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:01:35,723 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:01:35,724 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-16 12:01:36,163 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-16 12:01:36,177 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:01:36,181 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:01:36,185 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-16 12:01:36,231 - INFO - cards kaydedildi: 2 kayıt
+2026-01-16 12:01:36,235 - INFO - Yeni kayıt eklendi: cards #2
+2026-01-16 12:01:36,254 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:01:36,259 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:01:36,263 - INFO - Kart oluşturuldu: 2 (Deck: 1)
+2026-01-16 12:01:36,430 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:01:36,431 - INFO - Kayıt güncellendi: srs_state #1
+2026-01-16 12:01:36,437 - INFO - reviews kaydedildi: 1 kayıt
+2026-01-16 12:01:36,437 - INFO - Yeni kayıt eklendi: reviews #1
+2026-01-16 12:01:36,439 - INFO - Review kaydedildi: Card 2, Quality 4, Due: 2026-01-17
+2026-01-16 12:01:36,488 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:01:36,498 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:01:36,507 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:01:36,519 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:01:36,524 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-16 12:01:36,923 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:01:36,926 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:01:36,927 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-16 12:01:37,371 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-16 12:01:37,397 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:01:37,399 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:01:37,400 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-16 12:01:37,459 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:01:37,460 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:01:37,481 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:01:37,486 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:01:37,491 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:01:37,610 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:01:37,611 - INFO - Kayıt güncellendi: srs_state #1
+2026-01-16 12:01:37,618 - INFO - reviews kaydedildi: 1 kayıt
+2026-01-16 12:01:37,619 - INFO - Yeni kayıt eklendi: reviews #1
+2026-01-16 12:01:37,621 - INFO - Review kaydedildi: Card 1, Quality 2, Due: 2026-01-17
+2026-01-16 12:01:37,724 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:01:37,736 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:01:38,057 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:01:38,058 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:01:38,059 - INFO - Yeni kullanıcı kaydı: user1@example.com (ID: 1)
+2026-01-16 12:01:38,823 - INFO - Kullanıcı girişi başarılı: user1@example.com (ID: 1)
+2026-01-16 12:01:38,849 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:01:38,866 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:01:38,883 - INFO - Deck oluşturuldu: User1 Deck (ID: 1, User: 1)
+2026-01-16 12:01:38,894 - INFO - Kullanıcı çıkışı: user1@example.com
+2026-01-16 12:01:40,048 - INFO - users kaydedildi: 2 kayıt
+2026-01-16 12:01:40,065 - INFO - Yeni kayıt eklendi: users #2
+2026-01-16 12:01:40,078 - INFO - Yeni kullanıcı kaydı: user2@example.com (ID: 2)
+2026-01-16 12:01:40,985 - INFO - Kullanıcı girişi başarılı: user2@example.com (ID: 2)
+2026-01-16 12:05:01,349 - INFO - Uygulama başlatıldı
+2026-01-16 12:15:49,929 - INFO - decks kaydedildi: 3 kayıt
+2026-01-16 12:15:50,385 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:15:50,585 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:15:50,585 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:15:50,586 - INFO - Yeni kullanıcı kaydı: login@example.com (ID: 1)
+2026-01-16 12:15:50,932 - INFO - Kullanıcı girişi başarılı: login@example.com (ID: 1)
+2026-01-16 12:15:50,937 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:15:51,166 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:15:51,167 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:15:51,167 - INFO - Yeni kullanıcı kaydı: wrongpass@example.com (ID: 1)
+2026-01-16 12:15:51,401 - WARNING - Başarısız giriş denemesi - yanlış parola: wrongpass@example.com
+2026-01-16 12:15:51,407 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:15:51,576 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:15:51,577 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:15:51,577 - INFO - Yeni kullanıcı kaydı: duplicate@example.com (ID: 1)
+2026-01-16 12:15:51,608 - WARNING - Kayıt denemesi - email zaten mevcut: duplicate@example.com
+2026-01-16 12:15:51,611 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:15:51,802 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:15:51,802 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:15:51,803 - INFO - Yeni kullanıcı kaydı: test@example.com (ID: 1)
+2026-01-16 12:15:51,819 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:15:51,836 - INFO - Yedek oluşturuldu: C:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\tests\test_backups\backup_20260116_121551
+2026-01-16 12:15:51,842 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:15:51,877 - INFO - CSV dışa aktarıldı: C:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\tests\test_backups\export_20260116_121551.csv
+2026-01-16 12:15:51,881 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:15:51,885 - ERROR - Yedekleme hatası: [WinError 183] Halen varolan bir dosya oluşturulamaz: 'C:\\Users\\cavit\\OneDrive\\Desktop\\Python İle Yapay Zeka\\Bitirme Projesi\\tests\\test_backups\\backup_20260116_121551'
+2026-01-16 12:15:51,912 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:15:51,919 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:15:51,929 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:15:51,936 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:15:51,944 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-16 12:15:52,564 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:15:52,565 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:15:52,566 - INFO - Yeni kullanıcı kaydı: cardtest@example.com (ID: 1)
+2026-01-16 12:15:53,166 - INFO - Kullanıcı girişi başarılı: cardtest@example.com (ID: 1)
+2026-01-16 12:15:53,181 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:15:53,182 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:15:53,184 - INFO - Deck oluşturuldu: Test Deck (ID: 1, User: 1)
+2026-01-16 12:15:53,291 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:15:53,293 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:15:53,307 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:15:53,308 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:15:53,311 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:15:53,485 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:15:53,497 - INFO - Kayıt güncellendi: cards #1
+2026-01-16 12:15:53,507 - INFO - Kart güncellendi: 1
+2026-01-16 12:15:53,581 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:15:53,583 - INFO - 1 kayıt silindi: srs_state (card_id=1)
+2026-01-16 12:15:53,597 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:15:53,598 - INFO - Kayıt silindi: cards #1
+2026-01-16 12:15:53,600 - INFO - Kart silindi: 1
+2026-01-16 12:15:53,664 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:15:53,671 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:15:53,683 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:15:53,695 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:15:54,421 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:15:54,422 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:15:54,424 - INFO - Yeni kullanıcı kaydı: cascade@example.com (ID: 1)
+2026-01-16 12:15:55,111 - INFO - Kullanıcı girişi başarılı: cascade@example.com (ID: 1)
+2026-01-16 12:15:55,126 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:15:55,127 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:15:55,128 - INFO - Deck oluşturuldu: Cascade Test (ID: 1, User: 1)
+2026-01-16 12:15:55,185 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:15:55,187 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:15:55,200 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:15:55,202 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:15:55,204 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:15:55,267 - INFO - cards kaydedildi: 2 kayıt
+2026-01-16 12:15:55,273 - INFO - Yeni kayıt eklendi: cards #2
+2026-01-16 12:15:55,326 - INFO - srs_state kaydedildi: 2 kayıt
+2026-01-16 12:15:55,328 - INFO - Yeni kayıt eklendi: srs_state #2
+2026-01-16 12:15:55,328 - INFO - Kart oluşturuldu: 2 (Deck: 1)
+2026-01-16 12:15:55,446 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:15:55,449 - INFO - 1 kayıt silindi: srs_state (card_id=1)
+2026-01-16 12:15:55,532 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:15:55,533 - INFO - 1 kayıt silindi: srs_state (card_id=2)
+2026-01-16 12:15:55,549 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:15:55,550 - INFO - 2 kayıt silindi: cards (deck_id=1)
+2026-01-16 12:15:55,564 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:15:55,565 - INFO - Kayıt silindi: decks #1
+2026-01-16 12:15:55,567 - INFO - Deck silindi (cascade): Cascade Test (ID: 1, Kartlar: 2)
+2026-01-16 12:15:55,596 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:15:55,604 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:15:55,613 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:15:55,624 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:15:56,232 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:15:56,234 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:15:56,235 - INFO - Yeni kullanıcı kaydı: decktest@example.com (ID: 1)
+2026-01-16 12:15:56,870 - INFO - Kullanıcı girişi başarılı: decktest@example.com (ID: 1)
+2026-01-16 12:15:56,883 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:15:56,885 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:15:56,887 - INFO - Deck oluşturuldu: Python Basics (ID: 1, User: 1)
+2026-01-16 12:15:56,961 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:15:56,962 - INFO - Kayıt güncellendi: decks #1
+2026-01-16 12:15:56,965 - INFO - Deck güncellendi: 1
+2026-01-16 12:15:57,044 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:15:57,045 - INFO - Kayıt silindi: decks #1
+2026-01-16 12:15:57,047 - INFO - Deck silindi (cascade): Advanced Python (ID: 1, Kartlar: 0)
+2026-01-16 12:15:57,093 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:15:57,104 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:15:57,113 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:15:57,121 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:15:57,129 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-16 12:15:57,809 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:15:57,810 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:15:57,811 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-16 12:15:58,505 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-16 12:15:58,519 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:15:58,520 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:15:58,521 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-16 12:15:58,599 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:15:58,601 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:15:58,618 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:15:58,620 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:15:58,622 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:15:58,747 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:15:58,756 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:15:58,764 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:15:58,772 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:15:58,780 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-16 12:15:59,479 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:15:59,480 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:15:59,481 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-16 12:16:00,266 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-16 12:16:00,278 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:16:00,279 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:16:00,280 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-16 12:16:00,352 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:16:00,353 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:16:00,365 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:16:00,366 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:16:00,370 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:16:00,526 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:16:00,530 - INFO - Kayıt güncellendi: srs_state #1
+2026-01-16 12:16:00,545 - INFO - reviews kaydedildi: 1 kayıt
+2026-01-16 12:16:00,546 - INFO - Yeni kayıt eklendi: reviews #1
+2026-01-16 12:16:00,548 - INFO - Review kaydedildi: Card 1, Quality 4, Due: 2026-01-17
+2026-01-16 12:16:00,619 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:16:00,627 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:16:00,634 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:16:00,642 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:16:00,650 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-16 12:16:01,413 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:16:01,414 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:16:01,420 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-16 12:16:02,085 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-16 12:16:02,092 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:16:02,093 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:16:02,093 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-16 12:16:02,137 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:16:02,138 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:16:02,145 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:16:02,146 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:16:02,146 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:16:02,222 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:16:02,222 - INFO - Kayıt güncellendi: srs_state #1
+2026-01-16 12:16:02,229 - INFO - reviews kaydedildi: 1 kayıt
+2026-01-16 12:16:02,229 - INFO - Yeni kayıt eklendi: reviews #1
+2026-01-16 12:16:02,230 - INFO - Review kaydedildi: Card 1, Quality 2, Due: 2026-01-17
+2026-01-16 12:16:02,281 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:16:02,286 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:16:02,622 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:16:02,623 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:16:02,624 - INFO - Yeni kullanıcı kaydı: user1@example.com (ID: 1)
+2026-01-16 12:16:03,040 - INFO - Kullanıcı girişi başarılı: user1@example.com (ID: 1)
+2026-01-16 12:16:03,046 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:16:03,047 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:16:03,051 - INFO - Deck oluşturuldu: User1 Deck (ID: 1, User: 1)
+2026-01-16 12:16:03,052 - INFO - Kullanıcı çıkışı: user1@example.com
+2026-01-16 12:16:03,410 - INFO - users kaydedildi: 2 kayıt
+2026-01-16 12:16:03,411 - INFO - Yeni kayıt eklendi: users #2
+2026-01-16 12:16:03,412 - INFO - Yeni kullanıcı kaydı: user2@example.com (ID: 2)
+2026-01-16 12:16:03,801 - INFO - Kullanıcı girişi başarılı: user2@example.com (ID: 2)
+2026-01-16 12:21:52,352 - INFO - decks kaydedildi: 3 kayıt
+2026-01-16 12:21:52,835 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:21:53,024 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:21:53,024 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:21:53,025 - INFO - Yeni kullanıcı kaydı: login@example.com (ID: 1)
+2026-01-16 12:21:53,159 - INFO - Kullanıcı girişi başarılı: login@example.com (ID: 1)
+2026-01-16 12:21:53,162 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:21:53,287 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:21:53,287 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:21:53,288 - INFO - Yeni kullanıcı kaydı: wrongpass@example.com (ID: 1)
+2026-01-16 12:21:53,471 - WARNING - Başarısız giriş denemesi - yanlış parola: wrongpass@example.com
+2026-01-16 12:21:53,474 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:21:53,647 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:21:53,647 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:21:53,647 - INFO - Yeni kullanıcı kaydı: duplicate@example.com (ID: 1)
+2026-01-16 12:21:53,668 - WARNING - Kayıt denemesi - email zaten mevcut: duplicate@example.com
+2026-01-16 12:21:53,671 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:21:53,786 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:21:53,786 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:21:53,786 - INFO - Yeni kullanıcı kaydı: test@example.com (ID: 1)
+2026-01-16 12:21:53,793 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:21:53,805 - INFO - Yedek oluşturuldu: C:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\tests\test_backups\backup_20260116_122153
+2026-01-16 12:21:53,809 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:21:53,817 - INFO - CSV dışa aktarıldı: C:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\tests\test_backups\export_20260116_122153.csv
+2026-01-16 12:21:53,821 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:21:53,824 - ERROR - Yedekleme hatası: [WinError 183] Halen varolan bir dosya oluşturulamaz: 'C:\\Users\\cavit\\OneDrive\\Desktop\\Python İle Yapay Zeka\\Bitirme Projesi\\tests\\test_backups\\backup_20260116_122153'
+2026-01-16 12:21:53,835 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:21:53,838 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:21:53,843 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:21:53,845 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:21:53,849 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-16 12:21:54,021 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:21:54,021 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:21:54,021 - INFO - Yeni kullanıcı kaydı: cardtest@example.com (ID: 1)
+2026-01-16 12:21:54,145 - INFO - Kullanıcı girişi başarılı: cardtest@example.com (ID: 1)
+2026-01-16 12:21:54,149 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:21:54,150 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:21:54,150 - INFO - Deck oluşturuldu: Test Deck (ID: 1, User: 1)
+2026-01-16 12:21:54,169 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:21:54,169 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:21:54,172 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:21:54,172 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:21:54,173 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:21:54,213 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:21:54,214 - INFO - Kayıt güncellendi: cards #1
+2026-01-16 12:21:54,214 - INFO - Kart güncellendi: 1
+2026-01-16 12:21:54,233 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:21:54,234 - INFO - 1 kayıt silindi: srs_state (card_id=1)
+2026-01-16 12:21:54,236 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:21:54,236 - INFO - Kayıt silindi: cards #1
+2026-01-16 12:21:54,236 - INFO - Kart silindi: 1
+2026-01-16 12:21:54,243 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:21:54,247 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:21:54,250 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:21:54,252 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:21:54,365 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:21:54,365 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:21:54,365 - INFO - Yeni kullanıcı kaydı: cascade@example.com (ID: 1)
+2026-01-16 12:21:54,495 - INFO - Kullanıcı girişi başarılı: cascade@example.com (ID: 1)
+2026-01-16 12:21:54,499 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:21:54,499 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:21:54,500 - INFO - Deck oluşturuldu: Cascade Test (ID: 1, User: 1)
+2026-01-16 12:21:54,517 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:21:54,517 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:21:54,520 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:21:54,520 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:21:54,520 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:21:54,540 - INFO - cards kaydedildi: 2 kayıt
+2026-01-16 12:21:54,540 - INFO - Yeni kayıt eklendi: cards #2
+2026-01-16 12:21:54,560 - INFO - srs_state kaydedildi: 2 kayıt
+2026-01-16 12:21:54,561 - INFO - Yeni kayıt eklendi: srs_state #2
+2026-01-16 12:21:54,561 - INFO - Kart oluşturuldu: 2 (Deck: 1)
+2026-01-16 12:21:54,594 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:21:54,594 - INFO - 1 kayıt silindi: srs_state (card_id=1)
+2026-01-16 12:21:54,613 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:21:54,613 - INFO - 1 kayıt silindi: srs_state (card_id=2)
+2026-01-16 12:21:54,616 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:21:54,616 - INFO - 2 kayıt silindi: cards (deck_id=1)
+2026-01-16 12:21:54,619 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:21:54,619 - INFO - Kayıt silindi: decks #1
+2026-01-16 12:21:54,619 - INFO - Deck silindi (cascade): Cascade Test (ID: 1, Kartlar: 2)
+2026-01-16 12:21:54,625 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:21:54,627 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:21:54,630 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:21:54,632 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:21:54,761 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:21:54,761 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:21:54,761 - INFO - Yeni kullanıcı kaydı: decktest@example.com (ID: 1)
+2026-01-16 12:21:54,893 - INFO - Kullanıcı girişi başarılı: decktest@example.com (ID: 1)
+2026-01-16 12:21:54,897 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:21:54,897 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:21:54,897 - INFO - Deck oluşturuldu: Python Basics (ID: 1, User: 1)
+2026-01-16 12:21:54,917 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:21:54,917 - INFO - Kayıt güncellendi: decks #1
+2026-01-16 12:21:54,918 - INFO - Deck güncellendi: 1
+2026-01-16 12:21:54,938 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:21:54,938 - INFO - Kayıt silindi: decks #1
+2026-01-16 12:21:54,939 - INFO - Deck silindi (cascade): Advanced Python (ID: 1, Kartlar: 0)
+2026-01-16 12:21:54,945 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:21:54,948 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:21:54,951 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:21:54,954 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:21:54,958 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-16 12:21:55,110 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:21:55,111 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:21:55,111 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-16 12:21:55,285 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-16 12:21:55,290 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:21:55,291 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:21:55,291 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-16 12:21:55,316 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:21:55,317 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:21:55,321 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:21:55,321 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:21:55,321 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:21:55,369 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:21:55,373 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:21:55,376 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:21:55,380 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:21:55,383 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-16 12:21:55,559 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:21:55,559 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:21:55,559 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-16 12:21:55,715 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-16 12:21:55,720 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:21:55,720 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:21:55,720 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-16 12:21:55,740 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:21:55,741 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:21:55,745 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:21:55,745 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:21:55,745 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:21:55,792 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:21:55,793 - INFO - Kayıt güncellendi: srs_state #1
+2026-01-16 12:21:55,798 - INFO - reviews kaydedildi: 1 kayıt
+2026-01-16 12:21:55,798 - INFO - Yeni kayıt eklendi: reviews #1
+2026-01-16 12:21:55,798 - INFO - Review kaydedildi: Card 1, Quality 4, Due: 2026-01-17
+2026-01-16 12:21:55,816 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:21:55,818 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:21:55,821 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:21:55,824 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:21:55,826 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-16 12:21:56,000 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:21:56,001 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:21:56,001 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-16 12:21:56,167 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-16 12:21:56,171 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:21:56,171 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:21:56,172 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-16 12:21:56,194 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:21:56,194 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:21:56,198 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:21:56,198 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:21:56,198 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:21:56,234 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:21:56,234 - INFO - Kayıt güncellendi: srs_state #1
+2026-01-16 12:21:56,239 - INFO - reviews kaydedildi: 1 kayıt
+2026-01-16 12:21:56,239 - INFO - Yeni kayıt eklendi: reviews #1
+2026-01-16 12:21:56,239 - INFO - Review kaydedildi: Card 1, Quality 2, Due: 2026-01-17
+2026-01-16 12:21:56,264 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:21:56,267 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:21:56,442 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:21:56,442 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:21:56,442 - INFO - Yeni kullanıcı kaydı: user1@example.com (ID: 1)
+2026-01-16 12:21:56,603 - INFO - Kullanıcı girişi başarılı: user1@example.com (ID: 1)
+2026-01-16 12:21:56,607 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:21:56,608 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:21:56,608 - INFO - Deck oluşturuldu: User1 Deck (ID: 1, User: 1)
+2026-01-16 12:21:56,608 - INFO - Kullanıcı çıkışı: user1@example.com
+2026-01-16 12:21:56,749 - INFO - users kaydedildi: 2 kayıt
+2026-01-16 12:21:56,749 - INFO - Yeni kayıt eklendi: users #2
+2026-01-16 12:21:56,749 - INFO - Yeni kullanıcı kaydı: user2@example.com (ID: 2)
+2026-01-16 12:21:56,915 - INFO - Kullanıcı girişi başarılı: user2@example.com (ID: 2)
+2026-01-16 12:36:55,641 - INFO - decks kaydedildi: 3 kayıt
+2026-01-16 12:36:56,694 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:36:57,364 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:36:57,365 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:36:57,367 - INFO - Yeni kullanıcı kaydı: login@example.com (ID: 1)
+2026-01-16 12:36:58,390 - INFO - Kullanıcı girişi başarılı: login@example.com (ID: 1)
+2026-01-16 12:36:58,405 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:36:59,952 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:36:59,956 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:36:59,957 - INFO - Yeni kullanıcı kaydı: wrongpass@example.com (ID: 1)
+2026-01-16 12:37:01,034 - WARNING - Başarısız giriş denemesi - yanlış parola: wrongpass@example.com
+2026-01-16 12:37:01,043 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:37:01,900 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:37:01,901 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:37:01,903 - INFO - Yeni kullanıcı kaydı: duplicate@example.com (ID: 1)
+2026-01-16 12:37:01,960 - WARNING - Kayıt denemesi - email zaten mevcut: duplicate@example.com
+2026-01-16 12:37:01,968 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:37:03,014 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:37:03,021 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:37:03,023 - INFO - Yeni kullanıcı kaydı: test@example.com (ID: 1)
+2026-01-16 12:37:03,101 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:37:03,155 - INFO - Yedek oluşturuldu: C:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\tests\test_backups\backup_20260116_123703
+2026-01-16 12:37:03,165 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:37:03,210 - INFO - CSV dışa aktarıldı: C:\Users\cavit\OneDrive\Desktop\Python İle Yapay Zeka\Bitirme Projesi\tests\test_backups\export_20260116_123703.csv
+2026-01-16 12:37:03,220 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:37:03,229 - ERROR - Yedekleme hatası: [WinError 183] Halen varolan bir dosya oluşturulamaz: 'C:\\Users\\cavit\\OneDrive\\Desktop\\Python İle Yapay Zeka\\Bitirme Projesi\\tests\\test_backups\\backup_20260116_123703'
+2026-01-16 12:37:03,313 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:37:03,321 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:37:03,333 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:37:03,349 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:37:03,362 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-16 12:37:04,388 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:37:04,389 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:37:04,389 - INFO - Yeni kullanıcı kaydı: cardtest@example.com (ID: 1)
+2026-01-16 12:37:06,206 - INFO - Kullanıcı girişi başarılı: cardtest@example.com (ID: 1)
+2026-01-16 12:37:06,259 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:37:06,260 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:37:06,262 - INFO - Deck oluşturuldu: Test Deck (ID: 1, User: 1)
+2026-01-16 12:37:06,499 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:37:06,501 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:37:06,512 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:37:06,512 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:37:06,513 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:37:06,858 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:37:06,859 - INFO - Kayıt güncellendi: cards #1
+2026-01-16 12:37:06,859 - INFO - Kart güncellendi: 1
+2026-01-16 12:37:06,970 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:37:06,971 - INFO - 1 kayıt silindi: srs_state (card_id=1)
+2026-01-16 12:37:06,983 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:37:06,985 - INFO - Kayıt silindi: cards #1
+2026-01-16 12:37:06,986 - INFO - Kart silindi: 1
+2026-01-16 12:37:07,082 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:37:07,115 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:37:07,151 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:37:07,192 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:37:08,406 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:37:08,407 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:37:08,409 - INFO - Yeni kullanıcı kaydı: cascade@example.com (ID: 1)
+2026-01-16 12:37:10,246 - INFO - Kullanıcı girişi başarılı: cascade@example.com (ID: 1)
+2026-01-16 12:37:10,377 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:37:10,381 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:37:10,383 - INFO - Deck oluşturuldu: Cascade Test (ID: 1, User: 1)
+2026-01-16 12:37:10,795 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:37:10,796 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:37:10,826 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:37:10,831 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:37:10,840 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:37:10,936 - INFO - cards kaydedildi: 2 kayıt
+2026-01-16 12:37:10,937 - INFO - Yeni kayıt eklendi: cards #2
+2026-01-16 12:37:11,037 - INFO - srs_state kaydedildi: 2 kayıt
+2026-01-16 12:37:11,039 - INFO - Yeni kayıt eklendi: srs_state #2
+2026-01-16 12:37:11,041 - INFO - Kart oluşturuldu: 2 (Deck: 1)
+2026-01-16 12:37:11,364 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:37:11,368 - INFO - 1 kayıt silindi: srs_state (card_id=1)
+2026-01-16 12:37:11,486 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:37:11,489 - INFO - 1 kayıt silindi: srs_state (card_id=2)
+2026-01-16 12:37:11,508 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:37:11,509 - INFO - 2 kayıt silindi: cards (deck_id=1)
+2026-01-16 12:37:11,538 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:37:11,541 - INFO - Kayıt silindi: decks #1
+2026-01-16 12:37:11,544 - INFO - Deck silindi (cascade): Cascade Test (ID: 1, Kartlar: 2)
+2026-01-16 12:37:11,624 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:37:11,639 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:37:11,661 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:37:11,673 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:37:13,221 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:37:13,223 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:37:13,225 - INFO - Yeni kullanıcı kaydı: decktest@example.com (ID: 1)
+2026-01-16 12:37:14,245 - INFO - Kullanıcı girişi başarılı: decktest@example.com (ID: 1)
+2026-01-16 12:37:14,260 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:37:14,260 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:37:14,261 - INFO - Deck oluşturuldu: Python Basics (ID: 1, User: 1)
+2026-01-16 12:37:14,337 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:37:14,339 - INFO - Kayıt güncellendi: decks #1
+2026-01-16 12:37:14,340 - INFO - Deck güncellendi: 1
+2026-01-16 12:37:14,400 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:37:14,401 - INFO - Kayıt silindi: decks #1
+2026-01-16 12:37:14,402 - INFO - Deck silindi (cascade): Advanced Python (ID: 1, Kartlar: 0)
+2026-01-16 12:37:14,430 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:37:14,436 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:37:14,444 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:37:14,451 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:37:14,457 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-16 12:37:15,911 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:37:15,914 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:37:15,916 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-16 12:37:16,932 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-16 12:37:16,947 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:37:16,947 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:37:16,948 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-16 12:37:17,013 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:37:17,014 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:37:17,025 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:37:17,026 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:37:17,027 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:37:17,208 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:37:17,220 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:37:17,228 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:37:17,235 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:37:17,242 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-16 12:37:17,920 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:37:17,923 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:37:17,925 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-16 12:37:18,787 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-16 12:37:18,811 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:37:18,812 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:37:18,814 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-16 12:37:18,894 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:37:18,896 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:37:18,917 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:37:18,918 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:37:18,919 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:37:19,081 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:37:19,081 - INFO - Kayıt güncellendi: srs_state #1
+2026-01-16 12:37:19,090 - INFO - reviews kaydedildi: 1 kayıt
+2026-01-16 12:37:19,091 - INFO - Yeni kayıt eklendi: reviews #1
+2026-01-16 12:37:19,092 - INFO - Review kaydedildi: Card 1, Quality 4, Due: 2026-01-17
+2026-01-16 12:37:19,148 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:37:19,156 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:37:19,166 - INFO - cards kaydedildi: 0 kayıt
+2026-01-16 12:37:19,173 - INFO - srs_state kaydedildi: 0 kayıt
+2026-01-16 12:37:19,180 - INFO - reviews kaydedildi: 0 kayıt
+2026-01-16 12:37:19,832 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:37:19,834 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:37:19,835 - INFO - Yeni kullanıcı kaydı: reviewtest@example.com (ID: 1)
+2026-01-16 12:37:20,571 - INFO - Kullanıcı girişi başarılı: reviewtest@example.com (ID: 1)
+2026-01-16 12:37:20,585 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:37:20,586 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:37:20,586 - INFO - Deck oluşturuldu: Review Test (ID: 1, User: 1)
+2026-01-16 12:37:20,653 - INFO - cards kaydedildi: 1 kayıt
+2026-01-16 12:37:20,657 - INFO - Yeni kayıt eklendi: cards #1
+2026-01-16 12:37:20,670 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:37:20,671 - INFO - Yeni kayıt eklendi: srs_state #1
+2026-01-16 12:37:20,672 - INFO - Kart oluşturuldu: 1 (Deck: 1)
+2026-01-16 12:37:20,784 - INFO - srs_state kaydedildi: 1 kayıt
+2026-01-16 12:37:20,785 - INFO - Kayıt güncellendi: srs_state #1
+2026-01-16 12:37:20,797 - INFO - reviews kaydedildi: 1 kayıt
+2026-01-16 12:37:20,798 - INFO - Yeni kayıt eklendi: reviews #1
+2026-01-16 12:37:20,800 - INFO - Review kaydedildi: Card 1, Quality 2, Due: 2026-01-17
+2026-01-16 12:37:21,021 - INFO - users kaydedildi: 0 kayıt
+2026-01-16 12:37:21,028 - INFO - decks kaydedildi: 0 kayıt
+2026-01-16 12:37:21,811 - INFO - users kaydedildi: 1 kayıt
+2026-01-16 12:37:21,811 - INFO - Yeni kayıt eklendi: users #1
+2026-01-16 12:37:21,812 - INFO - Yeni kullanıcı kaydı: user1@example.com (ID: 1)
+2026-01-16 12:37:22,641 - INFO - Kullanıcı girişi başarılı: user1@example.com (ID: 1)
+2026-01-16 12:37:22,656 - INFO - decks kaydedildi: 1 kayıt
+2026-01-16 12:37:22,657 - INFO - Yeni kayıt eklendi: decks #1
+2026-01-16 12:37:22,658 - INFO - Deck oluşturuldu: User1 Deck (ID: 1, User: 1)
+2026-01-16 12:37:22,658 - INFO - Kullanıcı çıkışı: user1@example.com
+2026-01-16 12:37:23,458 - INFO - users kaydedildi: 2 kayıt
+2026-01-16 12:37:23,459 - INFO - Yeni kayıt eklendi: users #2
+2026-01-16 12:37:23,460 - INFO - Yeni kullanıcı kaydı: user2@example.com (ID: 2)
+2026-01-16 12:37:24,454 - INFO - Kullanıcı girişi başarılı: user2@example.com (ID: 2)
+>>>>>>> 49319f5dfc84fb8c02a88209b4cff51a53bda568
