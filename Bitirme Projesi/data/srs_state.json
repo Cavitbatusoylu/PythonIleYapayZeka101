@@ -1,0 +1,32 @@
+﻿[
+  {
+    "id": 1000,
+    "user_id": 1,
+    "card_id": 100,
+    "repetition": 2,
+    "interval_days": 6,
+    "ef": 2.5,
+    "due_date": "2026-01-22",
+    "last_quality": 4
+  },
+  {
+    "id": 1001,
+    "user_id": 1,
+    "card_id": 101,
+    "repetition": 1,
+    "interval_days": 1,
+    "ef": 2.36,
+    "due_date": "2026-01-17",
+    "last_quality": 3
+  },
+  {
+    "id": 1002,
+    "user_id": 1,
+    "card_id": 102,
+    "repetition": 0,
+    "interval_days": 1,
+    "ef": 2.5,
+    "due_date": "2026-01-16",
+    "last_quality": null
+  }
+]

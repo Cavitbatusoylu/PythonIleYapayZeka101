@@ -1,0 +1,23 @@
+﻿[
+  {
+    "id": 100,
+    "deck_id": 10,
+    "front": "Python nedir?",
+    "back": "Yuksek seviyeli, yorumlanan bir programlama dilidir.",
+    "created_at": "2026-01-10T10:05:00"
+  },
+  {
+    "id": 101,
+    "deck_id": 10,
+    "front": "List ile Tuple arasindaki fark nedir?",
+    "back": "List degistirilebilir (mutable), Tuple degistirilemez (immutable).",
+    "created_at": "2026-01-10T10:06:00"
+  },
+  {
+    "id": 102,
+    "deck_id": 11,
+    "front": "Dictionary nedir?",
+    "back": "Anahtar-deger ciftlerinden olusan veri yapisidir.",
+    "created_at": "2026-01-10T10:07:00"
+  }
+]
